@@ -1,0 +1,6 @@
+[submodule "stargaze"]
+	path = stargaze
+	url = https://github.com/tasiov/stargaze
+[submodule "wasmd"]
+	path = wasmd
+	url = https://github.com/tasiov/wasmd
